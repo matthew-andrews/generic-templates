@@ -12,5 +12,8 @@
   "author": "Matt Andrews",
   "license": "BSD",
   "readmeFilename": "README.md",
-  "gitHead": "0d70e3aafed9e58d4c8c13e8a00e8d678c2000b9"
+  "gitHead": "0d70e3aafed9e58d4c8c13e8a00e8d678c2000b9",
+  "dependencies": {
+    "ftfruit-vars": "git+ssh://git@github.com:matthew-andrews/ftfruit-vars.git"
+  }
 }
