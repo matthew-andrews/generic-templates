@@ -1,19 +1,19 @@
 
 /**
- * Vertical Middler Styles
+ * Vertical Centerer Styles
  *
  * @author Matt Andrews <matt@mattandre.ws>
  * @copyright The Financial Times Limited
  */
 
-.vmiddler {
+.verticenter {
   display: table;
   height: 100%;
   width: 100%;
   position: relative;
 }
 
-.vmiddler_inner {
+.verticenter_inner {
   display: table-cell;
   vertical-align: center;
   vertical-align: middle;
