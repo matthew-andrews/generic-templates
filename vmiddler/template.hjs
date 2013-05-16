@@ -1,0 +1,11 @@
+
+{{!
+  Vertical Middler Template
+
+  @author Matt Andrews <matt@mattandre.ws>
+  @copyright The Financial Times Limited
+}}
+
+<div class="vmiddler_inner">
+  {{{1}}}
+</div>
